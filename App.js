@@ -5,6 +5,7 @@ import Navigator from './navigation/Navigator';
 enableScreens();
 
 export default function App() {
+  let name = ''
   return (
     <Navigator />
 );
